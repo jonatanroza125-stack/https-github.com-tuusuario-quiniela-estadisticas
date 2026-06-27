@@ -1,2 +1,1 @@
-# https-github.com-tuusuario-quiniela-estadisticas
-quiniela-estadisticas
+https://github.com/jonatanroza125-stack/quiniela-estadisticas
